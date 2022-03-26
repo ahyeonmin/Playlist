@@ -1,3 +1,3 @@
 # playlist
 
-Yerin Baek Playlist CSS ⌒.⌒ ..~💞
+Yerin Baek Playlist (CSS) ⌒.⌒ ..~💞
