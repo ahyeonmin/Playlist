@@ -1,0 +1,5 @@
+.header-var {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px var(--horizontal-space) 20px var(--horizontal-space);
+}

@@ -1,0 +1,57 @@
+.playlist-songs {
+    margin-top: 20px;
+}
+
+.playlist-songs__component {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 18px;
+    margin: 10px 25px;
+}
+
+.playlist-songs__left {
+    display: flex;
+}
+
+.playlist-songs__left img {
+    width: 40px;
+    height: 40px;
+    border-radius: 5px;
+    margin-right: 15px;
+}
+
+.playlist-songs__info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+}
+
+.playlist-songs__icons i {
+    position: absolute;
+    color: rgba(255, 255, 255, 0.9);
+    top: 13px;
+    right: 126px;
+    text-shadow: 5px 5px 15px gray;
+}
+
+.playlist-songs__title {
+    font-size: 13px;
+    font-weight: 600;
+    margin-bottom: 7px;
+}
+
+.playlist-songs__singer {
+    font-size: 11px;
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.playlist-songs__right {
+    display: flex;
+    align-items: center;
+}
+
+.playlist-songs__component:nth-child(2) {
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 15px;
+}
